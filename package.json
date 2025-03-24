@@ -186,5 +186,9 @@
     "type": "legacy-module",
     "languages": "kotlin-swift",
     "version": "0.48.5"
+  },
+  "dependencies": {
+    "react-native-svg": "^15.11.2",
+    "rn-central-dls": "git+ssh://git@github.com:CSPL-CARS24/rn-central-dls-module.git#v0.0.39"
   }
 }
